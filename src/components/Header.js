@@ -72,7 +72,7 @@ class Header extends Component {
                   style={{
                     display: "block",
                     height: "100%",
-                    fontSize: 25,
+                    fontSize: 50,
                     textAlign: "end",
                     marginLeft: "20px",
                     color: "#353239",
@@ -87,7 +87,7 @@ class Header extends Component {
                   style={{
                     display: "block",
                     height: "100%",
-                    fontSize: 25,
+                    fontSize: 50,
                     textAlign: "end",
                     marginLeft: "10px",
                     color: "#353239",
@@ -98,7 +98,7 @@ class Header extends Component {
             />
           </Nav.Item>
         </Nav>
-        <div className="row aligner" style={{height: '100%'}}>
+        <div className="row aligner" style={{height: '90%'}}>
           <div className="col-md-12">
             <div>
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>

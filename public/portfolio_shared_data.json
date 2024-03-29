@@ -1,17 +1,17 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Qilin Xie",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/QILINXIE02",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
+          "name": "Linkedin",
           "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "class": "fab fa-Linkedin"
         }
       ],
       "image": "myProfile.jpg"

@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Qilin Xie. I’m currently learning full stack dev. I’m interested in leveraging tech for impactful solutions. I am on a mission to build connections of education and technology when I become a coding instructor.💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,42 +11,22 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Tea Explorer Website",
+        "startDate": "2023",
+        "description": "Team project; The Tea Explorer website is the culmination of extensive development efforts, representing my most expansive project to date. Throughout its creation, I delved into various technologies and received invaluable feedback from a talented team of curators. This platform aims to alleviate the consumer challenge of navigating the intricate landscape of teas by offering a user-friendly interface centered around an interactive map.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/tea-explorer/p1.jpg",
+          "images/portfolio/tea-explorer/p2.jpg"
         ],
-        "url": "",
+        "url": "https://team-quicm.github.io/Tea-Explorer/index.html",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,56 +35,75 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "personal-project",
+        "startDate": "2023",
+        "description": "Personal project; a split landing page that have my job position and skills; click on either box takes you to my resume with timeline. :)",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/personal-project/p1.jpg",
+          "images/portfolio/personal-project/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://qilinxie02.github.io/resume/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "React app: Gallery of Horns",
+        "startDate": "2024",
+        "description": "One of the first react app I was working during my time in Code Fellows 301. I've learned a lot!",
+        "images": [
+          "images/portfolio/react-app/p1.jpg",
+          "images/portfolio/react-app/p2.jpg"
+        ],
+        "url": "https://qilin-qallery-of-horns.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Front-End Developer student",
+        "years": "9.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "placeholder"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CSS"
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "company X",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "9.2023",
         "mainTech": [
-          "Angular 7/8"
+          "placeholder"
         ],
         "technologies": [
           "RxJS",
