@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Qilin Xie",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Full Stack Software Developer" ],
       "social": [
         {
           "name": "github",
@@ -29,11 +29,6 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
           "level": "90"
@@ -54,14 +49,39 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "70"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "70"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain",
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "VS Code",
+          "class": "devicon-vscode-plain",
+          "level": "95"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "75"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "70"
         }
       ]
     }

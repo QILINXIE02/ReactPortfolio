@@ -1,9 +1,9 @@
 {
   "basic_info": {
-    "description_header": "Hi",
-    "description": "👋 I'm Qilin Xie. I am a full stack JS developer based in Portland, OR area. 👀 I am passionate in leveraging tech for impactful solutions such as bridging the connection of education and technology by hosting a coding program. 💞️ I am looking to collaborate on projects that merge coding and education. 💜",
+    "description_header": "Hi 👋 I'm Qilin Xie. I am a full stack JS developer based in Portland, OR area.",
+    "description": "👀 I am passionate in leveraging tech for impactful solutions such as bridging the connection of education and technology by hosting a coding program. 💞️ I am looking to collaborate on projects that merge coding and education. 💜",
     "section_name": {
-      "about": "About me",
+      "about": "About Qilin",
       "projects": "Projects",
       "skills": "Skills",
       "experience": "Experience"
@@ -13,6 +13,30 @@
     }
   },
   "projects": [
+    {
+      "title": "Salmon Cookie Stand",
+      "startDate": "2023",
+      "description": "A web app for a salmon-shaped cookie company, with a public homepage and internal sales data management tool.",
+      "images": [
+        "images/portfolio/salmon/p1.jpg",
+        "images/portfolio/salmon/p2.jpg"
+      ],
+      "url": "https://qilinxie02.github.io/cookie-stand/index.html",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
     {
       "title": "Tea Explorer Website",
       "startDate": "2023",
@@ -86,7 +110,55 @@
       ]
     },
     {
-      "title": "Flower Bouquet Customizer Mobile App",
+      "title": "RESTy App",
+      "startDate": "2024",
+      "description": "An API testing tool that can be run in any browser, allowing a user to easily interact with APIs in a familiar interface.",
+      "images": [
+        "images/portfolio/resty/p1.jpg",
+        "images/portfolio/resty/p2.jpg"
+      ],
+      "url": "https://qilin-resty.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Virtual Store App",
+      "startDate": "2024",
+      "description": "Virtual Store is an e-Commerce storefront application built with React and Redux.",
+      "images": [
+        "images/portfolio/storefront/p1.jpg",
+        "images/portfolio/storefront/p2.jpg"
+      ],
+      "url": "https://main--qilin-storefront.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Flower Customizer App",
       "startDate": "2024",
       "description": "My first mobile app using react native and expo; Create unique flower bouquets based on chosen color palette; add to favorites and cart.",
       "images": [
@@ -152,7 +224,7 @@
     {
       "company": "Goodwill Industries of the Columbia Willamette",
       "title": "Career Center Instructor",
-      "years": "9.2023 - current",
+      "years": "09.2023 - current",
       "mainTech": [
         "Coding Instructor in training"
       ],
