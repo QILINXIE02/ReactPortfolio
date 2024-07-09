@@ -1,117 +1,168 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Qilin Xie. I’m currently learning full stack dev. I’m interested in leveraging tech for impactful solutions. I am on a mission to build connections of education and technology when I become a coding instructor.💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Qilin Xie. I am a full stack JS developer based in Portland, OR area. 👀 I am passionate in leveraging tech for impactful solutions such as bridging the connection of education and technology by hosting a coding program. 💞️ I am looking to collaborate on projects that merge coding and education. 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
     },
-    "projects": [
-      {
-        "title": "Tea Explorer Website",
-        "startDate": "2023",
-        "description": "Team project; The Tea Explorer website is the culmination of extensive development efforts, representing my most expansive project to date. Throughout its creation, I delved into various technologies and received invaluable feedback from a talented team of curators. This platform aims to alleviate the consumer challenge of navigating the intricate landscape of teas by offering a user-friendly interface centered around an interactive map.",
-        "images": [
-          "images/portfolio/tea-explorer/p1.jpg",
-          "images/portfolio/tea-explorer/p2.jpg"
-        ],
-        "url": "https://team-quicm.github.io/Tea-Explorer/index.html",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS 3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "personal-project",
-        "startDate": "2023",
-        "description": "Personal project; a split landing page that have my job position and skills; click on either box takes you to my resume with timeline. :)",
-        "images": [
-          "images/portfolio/personal-project/p1.jpg",
-          "images/portfolio/personal-project/p2.jpg"
-        ],
-        "url": "https://qilinxie02.github.io/resume/",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS 3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "React app: Gallery of Horns",
-        "startDate": "2024",
-        "description": "One of the first react app I was working during my time in Code Fellows 301. I've learned a lot!",
-        "images": [
-          "images/portfolio/react-app/p1.jpg",
-          "images/portfolio/react-app/p2.jpg"
-        ],
-        "url": "https://qilin-qallery-of-horns.netlify.app/",
-        "technologies": [
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS 3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Code Fellows",
-        "title": "Front-End Developer student",
-        "years": "9.2023 - present",
-        "mainTech": [
-          "placeholder"
-        ],
-        "technologies": [
-          "HTML",
-          "JavaScript",
-          "Bootstrap",
-          "CSS"
-        ]
-      },
-      {
-        "company": "company X",
-        "title": "Intern",
-        "years": "9.2023",
-        "mainTech": [
-          "placeholder"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    "image": {
+      "src": "myProfile.jpg"
+    }
+  },
+  "projects": [
+    {
+      "title": "Tea Explorer Website",
+      "startDate": "2023",
+      "description": "Team project; The Tea Explorer website is the culmination of extensive development efforts, representing my most expansive project to date. Throughout its creation, I delved into various technologies and received invaluable feedback from a talented team of curators. This platform aims to alleviate the consumer challenge of navigating the intricate landscape of teas by offering a user-friendly interface centered around an interactive map.",
+      "images": [
+        "images/portfolio/tea-explorer/p1.jpg",
+        "images/portfolio/tea-explorer/p2.jpg"
+      ],
+      "url": "https://team-quicm.github.io/Tea-Explorer/index.html",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "personal-project",
+      "startDate": "2023",
+      "description": "Personal project; a split landing page that have my job position and skills; click on either box takes you to my resume with timeline. :)",
+      "images": [
+        "images/portfolio/personal-project/p1.jpg",
+        "images/portfolio/personal-project/p2.jpg"
+      ],
+      "url": "https://qilinxie02.github.io/resume/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "React app: Gallery of Horns",
+      "startDate": "2024",
+      "description": "One of the first react app I was working during my time in Code Fellows 301. I've learned a lot!",
+      "images": [
+        "images/portfolio/react-app/p1.jpg",
+        "images/portfolio/react-app/p2.jpg"
+      ],
+      "url": "https://qilin-qallery-of-horns.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Flower Bouquet Customizer Mobile App",
+      "startDate": "2024",
+      "description": "My first mobile app using react native and expo; Create unique flower bouquets based on chosen color palette; add to favorites and cart.",
+      "images": [
+        "images/portfolio/flower-app/p1.jpg",
+        "images/portfolio/flower-app/p2.jpg"
+      ],
+      "url": "https://github.com/QILINXIE02/Flower-app",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Volunteer Bridge App",
+      "startDate": "2024",
+      "description": "Mobile App team project using React Native to connect volunteers with nonprofits",
+      "images": [
+        "images/portfolio/volunteer-app/p1.jpg",
+        "images/portfolio/volunteer-app/p2.jpg"
+      ],
+      "url": "https://github.com/TechSpark-Solutions/VolunteerBridgeApp",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Code Fellows",
+      "title": "Advanced software development training",
+      "years": "10.2023 - 07.2024",
+      "mainTech": [
+        "Full Stack dev"
+      ],
+      "technologies": [
+        "HTML",
+        "JavaScript",
+        "Bootstrap",
+        "CSS"
+      ]
+    },
+    {
+      "company": "Goodwill Industries of the Columbia Willamette",
+      "title": "Career Center Instructor",
+      "years": "9.2023 - current",
+      "mainTech": [
+        "Coding Instructor in training"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}
