@@ -62,30 +62,6 @@
       ]
     },
     {
-      "title": "Flower Bouquet Customizer Mobile App",
-      "startDate": "2024",
-      "description": "One of the first react app I was working during my time in Code Fellows 301. I've learned a lot!",
-      "images": [
-        "images/portfolio/flower-app/p1.jpg",
-        "images/portfolio/flower-app/p2.jpg"
-      ],
-      "url": "https://qilin-qallery-of-horns.netlify.app/",
-      "technologies": [
-        {
-          "class": "devicon-bootstrap-plain",
-          "name": "Bootstrap"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS 3"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
-      ]
-    },
-    {
       "title": "React app: Gallery of Horns",
       "startDate": "2024",
       "description": "One of the first react app I was working during my time in Code Fellows 301. I've learned a lot!",
@@ -108,15 +84,63 @@
           "name": "JavaScript"
         }
       ]
+    },
+    {
+      "title": "Flower Bouquet Customizer Mobile App",
+      "startDate": "2024",
+      "description": "My first mobile app using react native and expo; Create unique flower bouquets based on chosen color palette; add to favorites and cart.",
+      "images": [
+        "images/portfolio/flower-app/p1.jpg",
+        "images/portfolio/flower-app/p2.jpg"
+      ],
+      "url": "https://github.com/QILINXIE02/Flower-app",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Volunteer Bridge App",
+      "startDate": "2024",
+      "description": "Mobile App team project using React Native to connect volunteers with nonprofits",
+      "images": [
+        "images/portfolio/volunteer-app/p1.jpg",
+        "images/portfolio/volunteer-app/p2.jpg"
+      ],
+      "url": "https://github.com/TechSpark-Solutions/VolunteerBridgeApp",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
     }
   ],
   "experience": [
     {
       "company": "Code Fellows",
-      "title": "Front-End Developer student",
-      "years": "9.2023 - present",
+      "title": "Advanced software development training",
+      "years": "10.2023 - 07.2024",
       "mainTech": [
-        "placeholder"
+        "Full Stack dev"
       ],
       "technologies": [
         "HTML",
@@ -126,11 +150,11 @@
       ]
     },
     {
-      "company": "company X",
-      "title": "Intern",
-      "years": "9.2023",
+      "company": "Goodwill Industries of the Columbia Willamette",
+      "title": "Career Center Instructor",
+      "years": "9.2023 - current",
       "mainTech": [
-        "placeholder"
+        "Coding Instructor in training"
       ],
       "technologies": [
         "RxJS",
