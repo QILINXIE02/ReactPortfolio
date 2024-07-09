@@ -1,9 +1,9 @@
 {
   "basic_info": {
-    "description_header": "Hi",
-    "description": "👋 I'm Qilin Xie. I am a full stack JS developer based in Portland, OR area. 👀 I am passionate in leveraging tech for impactful solutions such as bridging the connection of education and technology by hosting a coding program. 💞️ I am looking to collaborate on projects that merge coding and education. 💜",
+    "description_header": "Hi 👋 I'm Qilin Xie. I am a full stack JS developer based in Portland, OR area.",
+    "description": "👀 I am passionate in leveraging tech for impactful solutions such as bridging the connection of education and technology by hosting a coding program. 💞️ I am looking to collaborate on projects that merge coding and education. 💜",
     "section_name": {
-      "about": "About me",
+      "about": "About Qilin",
       "projects": "Projects",
       "skills": "Skills",
       "experience": "Experience"
