@@ -62,6 +62,30 @@
       ]
     },
     {
+      "title": "Flower Bouquet Customizer Mobile App",
+      "startDate": "2024",
+      "description": "One of the first react app I was working during my time in Code Fellows 301. I've learned a lot!",
+      "images": [
+        "images/portfolio/flower-app/p1.jpg",
+        "images/portfolio/flower-app/p2.jpg"
+      ],
+      "url": "https://qilin-qallery-of-horns.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
       "title": "React app: Gallery of Horns",
       "startDate": "2024",
       "description": "One of the first react app I was working during my time in Code Fellows 301. I've learned a lot!",
