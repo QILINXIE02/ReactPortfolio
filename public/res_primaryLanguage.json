@@ -38,6 +38,30 @@
       ]
     },
     {
+      "title": "Salmon Cookie Stand",
+      "startDate": "2023",
+      "description": "A web app for a salmon-shaped cookie company, with a public homepage and internal sales data management tool.",
+      "images": [
+        "images/portfolio/salmon/p1.jpg",
+        "images/portfolio/salmon/p2.jpg"
+      ],
+      "url": "https://qilinxie02.github.io/cookie-stand/index.html",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
       "title": "personal-project",
       "startDate": "2023",
       "description": "Personal project; a split landing page that have my job position and skills; click on either box takes you to my resume with timeline. :)",
@@ -93,7 +117,7 @@
         "images/portfolio/resty/p1.jpg",
         "images/portfolio/resty/p2.jpg"
       ],
-      "url": "https://main--qilin-storefront.netlify.app/",
+      "url": "https://qilin-resty.netlify.app/",
       "technologies": [
         {
           "class": "devicon-bootstrap-plain",
