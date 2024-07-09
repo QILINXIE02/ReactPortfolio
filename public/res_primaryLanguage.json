@@ -14,30 +14,6 @@
   },
   "projects": [
     {
-      "title": "Tea Explorer Website",
-      "startDate": "2023",
-      "description": "Team project; The Tea Explorer website is the culmination of extensive development efforts, representing my most expansive project to date. Throughout its creation, I delved into various technologies and received invaluable feedback from a talented team of curators. This platform aims to alleviate the consumer challenge of navigating the intricate landscape of teas by offering a user-friendly interface centered around an interactive map.",
-      "images": [
-        "images/portfolio/tea-explorer/p1.jpg",
-        "images/portfolio/tea-explorer/p2.jpg"
-      ],
-      "url": "https://team-quicm.github.io/Tea-Explorer/index.html",
-      "technologies": [
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML 5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS 3"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
-      ]
-    },
-    {
       "title": "Salmon Cookie Stand",
       "startDate": "2023",
       "description": "A web app for a salmon-shaped cookie company, with a public homepage and internal sales data management tool.",
@@ -50,6 +26,30 @@
         {
           "class": "devicon-bootstrap-plain",
           "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Tea Explorer Website",
+      "startDate": "2023",
+      "description": "Team project; The Tea Explorer website is the culmination of extensive development efforts, representing my most expansive project to date. Throughout its creation, I delved into various technologies and received invaluable feedback from a talented team of curators. This platform aims to alleviate the consumer challenge of navigating the intricate landscape of teas by offering a user-friendly interface centered around an interactive map.",
+      "images": [
+        "images/portfolio/tea-explorer/p1.jpg",
+        "images/portfolio/tea-explorer/p2.jpg"
+      ],
+      "url": "https://team-quicm.github.io/Tea-Explorer/index.html",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
         },
         {
           "class": "devicon-css3-plain",
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "title": "Flower Bouquet Customizer Mobile App",
+      "title": "Flower Customizer App",
       "startDate": "2024",
       "description": "My first mobile app using react native and expo; Create unique flower bouquets based on chosen color palette; add to favorites and cart.",
       "images": [
