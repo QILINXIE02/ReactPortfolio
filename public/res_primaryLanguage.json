@@ -86,6 +86,30 @@
       ]
     },
     {
+      "title": "Virtual Store App",
+      "startDate": "2024",
+      "description": "Virtual Store is an e-Commerce storefront application built with React and Redux.",
+      "images": [
+        "images/portfolio/storefront/p1.jpg",
+        "images/portfolio/storefront/p2.jpg"
+      ],
+      "url": "https://main--qilin-storefront.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
       "title": "Flower Bouquet Customizer Mobile App",
       "startDate": "2024",
       "description": "My first mobile app using react native and expo; Create unique flower bouquets based on chosen color palette; add to favorites and cart.",
